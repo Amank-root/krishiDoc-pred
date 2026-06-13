@@ -10,5 +10,6 @@ dependencies = [
     "onnxruntime>=1.26.0",
     "pillow>=12.2.0",
     "python-multipart>=0.0.32",
+    "requests>=2.34.2",
     "uvicorn>=0.49.0",
 ]
